@@ -180,6 +180,8 @@ rosconsole set roscpp DEBUG
 
 ## License
 
+This project is licensed under the BSD License.
+
 # 激光数据融合功能包
 
 一个用于将多个激光扫描仪数据融合为统一激光扫描消息的ROS功能包。
@@ -345,3 +347,5 @@ constexpr double DIST_RANGE[] = {0.0, 12.0};
 
 
 ## 许可证
+
+本项目基于BSD许可证授权。
